@@ -9,10 +9,10 @@ Assurez-vous d'utiliser toujours le même compte GitHub pour accéder à ce proj
 
 ## Membre 1
 
-- <nomComplet1>Saisissez votre nom</nomComplet1>
-- <courriel1>Saisissez votre courriel</courriel1>
-- <codeMoodle1>Saisissez votre code Moodle (code universel) obtenu à partir de SIGNETS</codeMoodle1>
-- <githubAccount1>Saisissez l'identifiant de votre compte GitHub</githubAccount1>
+- <nomComplet1>Ludovic Julien</nomComplet1>
+- <courriel1>ludovic.julien.1@ens.etsmtl.ca</courriel1>
+- <codeMoodle1>AT85480</codeMoodle1>
+- <githubAccount1>LudoJulien</githubAccount1>
 
 ## Membre 2
 
